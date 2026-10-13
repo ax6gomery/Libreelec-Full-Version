@@ -259,4 +259,4 @@ This repository serves as the official landing page for LibreELEC. The software 
 **Get the most recent version of LibreELEC today!**
 
 ---
-**Last updated:** 2026-10-13 07:29:53 UTC
+**Last updated:** 2026-10-13 15:43:12 UTC
